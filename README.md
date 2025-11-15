@@ -5,8 +5,8 @@
 🌎 I love exploring how technology can solve real-world problems and open new opportunities for the future.  
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=nightowl&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=nightowl">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GustavoSozzi&show_icons=true&theme=nightowl&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GustavoSozzi&layout=compact&theme=nightowl">
 </div>
 
 ---

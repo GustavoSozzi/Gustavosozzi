@@ -33,7 +33,3 @@
 
 ### 🌐 Connect with me
 
-- **LinkedIn**: [Seu LinkedIn aqui]
-- **Instagram**: [Seu Instagram aqui]
-- **Email**: [seuemail@example.com]
-- **Portfolio/Website**: [seu site aqui]

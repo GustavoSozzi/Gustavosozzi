@@ -83,8 +83,8 @@
 
 ## Featured projects
 
-- <a href="https://github.com/GustavoSozzi/Docker-Actions"><img src="https://img.shields.io/static/v1?label=&message=Docker-Actions&color=319e8d&labelColor=0f0f0f&style=flat&logo=github&logoColor=f0f0f5" alt="Docker-Actions" /></a> - [one line on what it does]
-- <a href="https://github.com/GustavoSozzi/Agente-com-LangChain-para-receitas"><img src="https://img.shields.io/static/v1?label=&message=LangChain%20Recipe%20Agent&color=7c60d1&labelColor=0f0f0f&style=flat&logo=github&logoColor=f0f0f5" alt="LangChain Recipe Agent" /></a> - [one line on what it does]
+- <a href="https://github.com/GustavoSozzi/Docker-Actions"><img src="https://img.shields.io/static/v1?label=&message=Docker-Actions&color=319e8d&labelColor=0f0f0f&style=flat&logo=github&logoColor=f0f0f5" alt="Docker-Actions" /></a>
+- <a href="https://github.com/GustavoSozzi/Agente-com-LangChain-para-receitas"><img src="https://img.shields.io/static/v1?label=&message=LangChain%20Recipe%20Agent&color=7c60d1&labelColor=0f0f0f&style=flat&logo=github&logoColor=f0f0f5" alt="LangChain Recipe Agent" /></a>
 
 ## Contact
 - LinkedIn: [gustavosozzibom](https://linkedin.com/in/gustavosozzibom)

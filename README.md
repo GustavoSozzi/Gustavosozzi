@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/GustavoSozzi">
-    <img src="https://komarev.com/ghpvc/?username=GustavoSozzi&label=Profile%20views&color=0e75b6" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=GustavoSozzi&label=Profile%20views&color=7745bf" alt="Profile views" />
   </a>
   <a href="https://github.com/GustavoSozzi?tab=followers">
-    <img src="https://img.shields.io/github/followers/GustavoSozzi?style=flat&logo=github&label=Followers" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/GustavoSozzi?style=flat&logo=github&label=Followers&color=7c60d1" alt="GitHub followers" />
   </a>
   <a href="https://linkedin.com/in/gustavosozzibom">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=29adff&labelColor=0f0f0f&style=flat&logo=linkedin&logoColor=f0f0f5" alt="LinkedIn" />
   </a>
   <a href="mailto:bomgustavo10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=fd7cff&labelColor=0f0f0f&style=flat&logo=gmail&logoColor=f0f0f5" alt="Email" />
   </a>
 </p>
 
@@ -32,6 +32,12 @@
 - Learning: [e.g. RAG, automated testing, FastAPI]
 
 ## I can help with
+
+```text
+╭─ I CAN HELP WITH ─────────────────────────────╮
+│ apis · docker and ci · applied ai             │
+╰───────────────────────────────────────────────╯
+```
 
 <table>
   <tbody>
@@ -54,29 +60,35 @@
 
 **Back end and AI**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=7c60d1&labelColor=0f0f0f&style=flat&logo=typescript&logoColor=f0f0f5)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=7c60d1&labelColor=0f0f0f&style=flat&logo=nodedotjs&logoColor=f0f0f5)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=7c60d1&labelColor=0f0f0f&style=flat&logo=python&logoColor=f0f0f5)
+![LangChain](https://img.shields.io/static/v1?label=&message=LangChain&color=7c60d1&labelColor=0f0f0f&style=flat&logo=langchain&logoColor=f0f0f5)
+![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=7c60d1&labelColor=0f0f0f&style=flat)
 
 **Infrastructure and tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=319e8d&labelColor=0f0f0f&style=flat&logo=docker&logoColor=f0f0f5)
+![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=319e8d&labelColor=0f0f0f&style=flat&logo=githubactions&logoColor=f0f0f5)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=319e8d&labelColor=0f0f0f&style=flat&logo=git&logoColor=f0f0f5)
 
-**Also used:** JavaScript, React, Java, C, C#, HTML/CSS
+**Also used**
+
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=414141&labelColor=0f0f0f&style=flat&logo=javascript&logoColor=f0f0f5)
+![React](https://img.shields.io/static/v1?label=&message=React&color=414141&labelColor=0f0f0f&style=flat&logo=react&logoColor=f0f0f5)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=414141&labelColor=0f0f0f&style=flat&logo=openjdk&logoColor=f0f0f5)
+![C](https://img.shields.io/static/v1?label=&message=C&color=414141&labelColor=0f0f0f&style=flat&logo=c&logoColor=f0f0f5)
+![C#](https://img.shields.io/static/v1?label=&message=C%23&color=414141&labelColor=0f0f0f&style=flat&logo=csharp&logoColor=f0f0f5)
+![HTML/CSS](https://img.shields.io/static/v1?label=&message=HTML%2FCSS&color=414141&labelColor=0f0f0f&style=flat&logo=html5&logoColor=f0f0f5)
 
 ## Featured projects
 
-- [Docker-Actions](https://github.com/GustavoSozzi/Docker-Actions) - [one line on what it does]
-- [LangChain Recipe Agent](https://github.com/GustavoSozzi/Agente-com-LangChain-para-receitas) - [one line on what it does]
+- <a href="https://github.com/GustavoSozzi/Docker-Actions"><img src="https://img.shields.io/static/v1?label=&message=Docker-Actions&color=319e8d&labelColor=0f0f0f&style=flat&logo=github&logoColor=f0f0f5" alt="Docker-Actions" /></a> - [one line on what it does]
+- <a href="https://github.com/GustavoSozzi/Agente-com-LangChain-para-receitas"><img src="https://img.shields.io/static/v1?label=&message=LangChain%20Recipe%20Agent&color=7c60d1&labelColor=0f0f0f&style=flat&logo=github&logoColor=f0f0f5" alt="LangChain Recipe Agent" /></a> - [one line on what it does]
 
 ## Contact
 - LinkedIn: [gustavosozzibom](https://linkedin.com/in/gustavosozzibom)
-- Email: you@email.com
-
+- Email: bomgustavo10@gmail.com
 ---
 
 ## Recent activity

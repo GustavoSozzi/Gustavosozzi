@@ -5,7 +5,7 @@
 ## TL;DR
 
 > [!NOTE]
-> Computer Engineering student ([8]th semester, [UFGD]). I build APIs,
+> Computer Engineering student (8 th semester, UFGD). I build APIs,
 > Docker-based environments with CI, and AI agents. Looking for a back end / AI internship.
 
 ## Overview
@@ -26,7 +26,7 @@
 </p>
 
 ## Current focus
-- Building an AI agent with LangChain and TypeScript: [what makes it different, in one line]
+- Building an AI agent with LangChain and TypeScript
 - Building a Node API with Docker, a SQL database, and CI on GitHub Actions
 - Contributing to the back end of [NEO-Kaizen](https://github.com/NEO-Kaizen) (queues and reports)
 - Learning: [e.g. RAG, automated testing, FastAPI]

@@ -2,8 +2,6 @@
 
 <p align="center">Computer Engineering · Back end and AI</p>
 
-## TL;DR
-
 > [!NOTE]
 > Computer Engineering student (8 th semester, UFGD). I build APIs,
 > Docker-based environments with CI, and AI agents. Looking for a back end / AI internship.
